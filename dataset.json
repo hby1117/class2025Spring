@@ -1,0 +1,1202 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자유심증주의란 무엇인가요? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "법관이 자신의 양심과 논리에 따라 증거를 평가하는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자백의 보강법칙이란? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "피고인의 자백만으로는 유죄 판결을 내릴 수 없고, 반드시 보강증거가 있어야 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "국선변호인의 선임 기준은?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인이 경제적으로 어렵거나 중대한 범죄인 경우 법원이 국선변호인을 선임합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "항소심과 상고심의 차이는? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "항소심은 1심 판결에 대한 사실·법률심이고, 상고심은 법률심에 해당합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "압수수색의 요건은? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "압수수색은 법원의 영장을 받아야 하며, 긴급한 경우 일부 예외가 인정됩니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "무죄추정의 원칙이란? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인은 유죄 판결이 확정되기 전까지는 무죄로 추정되며, 이를 무죄추정의 원칙이라고 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "형사소송에서 증거개시 제도란? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "검사가 확보한 증거를 피고인 또는 변호인에게 사전에 공개하는 절차입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자유심증주의란 무엇인가요? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "법관이 자신의 양심과 논리에 따라 증거를 평가하는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "구속영장 실질심사는 무엇인가요?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "피의자 구속 전, 판사가 직접 구속 필요성을 심사하는 절차입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "형사소송에서 증거개시 제도란?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "검사가 확보한 증거를 피고인 또는 변호인에게 사전에 공개하는 절차입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "국선변호인의 선임 기준은? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인이 경제적으로 어렵거나 중대한 범죄인 경우 법원이 국선변호인을 선임합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자유심증주의란 무엇인가요?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "법관이 자신의 양심과 논리에 따라 증거를 평가하는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "형사소송에서 증거개시 제도란? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "검사가 확보한 증거를 피고인 또는 변호인에게 사전에 공개하는 절차입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "압수수색의 요건은? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "압수수색은 법원의 영장을 받아야 하며, 긴급한 경우 일부 예외가 인정됩니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "공판중심주의란? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "재판은 공판 절차에서 제출된 증거와 진술만을 토대로 판단해야 한다는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "항소심과 상고심의 차이는?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "항소심은 1심 판결에 대한 사실·법률심이고, 상고심은 법률심에 해당합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자유심증주의란 무엇인가요? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "법관이 자신의 양심과 논리에 따라 증거를 평가하는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "국선변호인의 선임 기준은? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인이 경제적으로 어렵거나 중대한 범죄인 경우 법원이 국선변호인을 선임합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "고소와 고발의 차이는?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "고소는 피해자 또는 법정대리인이, 고발은 제3자가 범죄 사실을 수사기관에 알리는 것을 말합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "형사소송에서 증거개시 제도란? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "검사가 확보한 증거를 피고인 또는 변호인에게 사전에 공개하는 절차입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "압수수색의 요건은? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "압수수색은 법원의 영장을 받아야 하며, 긴급한 경우 일부 예외가 인정됩니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "항소심과 상고심의 차이는? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "항소심은 1심 판결에 대한 사실·법률심이고, 상고심은 법률심에 해당합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "공판중심주의란? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "재판은 공판 절차에서 제출된 증거와 진술만을 토대로 판단해야 한다는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "무죄추정의 원칙이란? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "피고인은 유죄 판결이 확정되기 전까지는 무죄로 추정되며, 이를 무죄추정의 원칙이라고 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "항소심과 상고심의 차이는?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "항소심은 1심 판결에 대한 사실·법률심이고, 상고심은 법률심에 해당합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자백의 보강법칙이란? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "피고인의 자백만으로는 유죄 판결을 내릴 수 없고, 반드시 보강증거가 있어야 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "무죄추정의 원칙이란? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "피고인은 유죄 판결이 확정되기 전까지는 무죄로 추정되며, 이를 무죄추정의 원칙이라고 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "압수수색의 요건은? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "압수수색은 법원의 영장을 받아야 하며, 긴급한 경우 일부 예외가 인정됩니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "공판중심주의란? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "재판은 공판 절차에서 제출된 증거와 진술만을 토대로 판단해야 한다는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자유심증주의란 무엇인가요?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "법관이 자신의 양심과 논리에 따라 증거를 평가하는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자백의 보강법칙이란?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인의 자백만으로는 유죄 판결을 내릴 수 없고, 반드시 보강증거가 있어야 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "압수수색의 요건은?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "압수수색은 법원의 영장을 받아야 하며, 긴급한 경우 일부 예외가 인정됩니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "무죄추정의 원칙이란? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "피고인은 유죄 판결이 확정되기 전까지는 무죄로 추정되며, 이를 무죄추정의 원칙이라고 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "항소심과 상고심의 차이는? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "항소심은 1심 판결에 대한 사실·법률심이고, 상고심은 법률심에 해당합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자유심증주의란 무엇인가요? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "법관이 자신의 양심과 논리에 따라 증거를 평가하는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "압수수색의 요건은?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "압수수색은 법원의 영장을 받아야 하며, 긴급한 경우 일부 예외가 인정됩니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "공판중심주의란? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "재판은 공판 절차에서 제출된 증거와 진술만을 토대로 판단해야 한다는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "항소심과 상고심의 차이는? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "항소심은 1심 판결에 대한 사실·법률심이고, 상고심은 법률심에 해당합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "항소심과 상고심의 차이는? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "항소심은 1심 판결에 대한 사실·법률심이고, 상고심은 법률심에 해당합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "고소와 고발의 차이는? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "고소는 피해자 또는 법정대리인이, 고발은 제3자가 범죄 사실을 수사기관에 알리는 것을 말합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "고소와 고발의 차이는? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "고소는 피해자 또는 법정대리인이, 고발은 제3자가 범죄 사실을 수사기관에 알리는 것을 말합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자백의 보강법칙이란? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "피고인의 자백만으로는 유죄 판결을 내릴 수 없고, 반드시 보강증거가 있어야 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "공판중심주의란?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "재판은 공판 절차에서 제출된 증거와 진술만을 토대로 판단해야 한다는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "항소심과 상고심의 차이는?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "항소심은 1심 판결에 대한 사실·법률심이고, 상고심은 법률심에 해당합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "무죄추정의 원칙이란?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인은 유죄 판결이 확정되기 전까지는 무죄로 추정되며, 이를 무죄추정의 원칙이라고 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "고소와 고발의 차이는?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "고소는 피해자 또는 법정대리인이, 고발은 제3자가 범죄 사실을 수사기관에 알리는 것을 말합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자백의 보강법칙이란? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "피고인의 자백만으로는 유죄 판결을 내릴 수 없고, 반드시 보강증거가 있어야 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자유심증주의란 무엇인가요?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "법관이 자신의 양심과 논리에 따라 증거를 평가하는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "국선변호인의 선임 기준은?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인이 경제적으로 어렵거나 중대한 범죄인 경우 법원이 국선변호인을 선임합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "무죄추정의 원칙이란?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인은 유죄 판결이 확정되기 전까지는 무죄로 추정되며, 이를 무죄추정의 원칙이라고 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "항소심과 상고심의 차이는? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "항소심은 1심 판결에 대한 사실·법률심이고, 상고심은 법률심에 해당합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "공판중심주의란?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "재판은 공판 절차에서 제출된 증거와 진술만을 토대로 판단해야 한다는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "무죄추정의 원칙이란? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "피고인은 유죄 판결이 확정되기 전까지는 무죄로 추정되며, 이를 무죄추정의 원칙이라고 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "압수수색의 요건은? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "압수수색은 법원의 영장을 받아야 하며, 긴급한 경우 일부 예외가 인정됩니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자유심증주의란 무엇인가요?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "법관이 자신의 양심과 논리에 따라 증거를 평가하는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "국선변호인의 선임 기준은?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인이 경제적으로 어렵거나 중대한 범죄인 경우 법원이 국선변호인을 선임합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "무죄추정의 원칙이란? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "피고인은 유죄 판결이 확정되기 전까지는 무죄로 추정되며, 이를 무죄추정의 원칙이라고 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "무죄추정의 원칙이란?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인은 유죄 판결이 확정되기 전까지는 무죄로 추정되며, 이를 무죄추정의 원칙이라고 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "공판중심주의란? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "재판은 공판 절차에서 제출된 증거와 진술만을 토대로 판단해야 한다는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자백의 보강법칙이란?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인의 자백만으로는 유죄 판결을 내릴 수 없고, 반드시 보강증거가 있어야 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "공판중심주의란?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "재판은 공판 절차에서 제출된 증거와 진술만을 토대로 판단해야 한다는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "고소와 고발의 차이는?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "고소는 피해자 또는 법정대리인이, 고발은 제3자가 범죄 사실을 수사기관에 알리는 것을 말합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "항소심과 상고심의 차이는? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "항소심은 1심 판결에 대한 사실·법률심이고, 상고심은 법률심에 해당합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "압수수색의 요건은?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "압수수색은 법원의 영장을 받아야 하며, 긴급한 경우 일부 예외가 인정됩니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "항소심과 상고심의 차이는?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "항소심은 1심 판결에 대한 사실·법률심이고, 상고심은 법률심에 해당합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자유심증주의란 무엇인가요?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "법관이 자신의 양심과 논리에 따라 증거를 평가하는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "압수수색의 요건은? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "압수수색은 법원의 영장을 받아야 하며, 긴급한 경우 일부 예외가 인정됩니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "형사소송에서 증거개시 제도란? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "검사가 확보한 증거를 피고인 또는 변호인에게 사전에 공개하는 절차입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "압수수색의 요건은? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "압수수색은 법원의 영장을 받아야 하며, 긴급한 경우 일부 예외가 인정됩니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "구속영장 실질심사는 무엇인가요? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "피의자 구속 전, 판사가 직접 구속 필요성을 심사하는 절차입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자백의 보강법칙이란? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "피고인의 자백만으로는 유죄 판결을 내릴 수 없고, 반드시 보강증거가 있어야 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "고소와 고발의 차이는? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "고소는 피해자 또는 법정대리인이, 고발은 제3자가 범죄 사실을 수사기관에 알리는 것을 말합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "고소와 고발의 차이는? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "고소는 피해자 또는 법정대리인이, 고발은 제3자가 범죄 사실을 수사기관에 알리는 것을 말합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "무죄추정의 원칙이란? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인은 유죄 판결이 확정되기 전까지는 무죄로 추정되며, 이를 무죄추정의 원칙이라고 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자유심증주의란 무엇인가요? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "법관이 자신의 양심과 논리에 따라 증거를 평가하는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자백의 보강법칙이란? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "피고인의 자백만으로는 유죄 판결을 내릴 수 없고, 반드시 보강증거가 있어야 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "무죄추정의 원칙이란?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인은 유죄 판결이 확정되기 전까지는 무죄로 추정되며, 이를 무죄추정의 원칙이라고 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "무죄추정의 원칙이란?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인은 유죄 판결이 확정되기 전까지는 무죄로 추정되며, 이를 무죄추정의 원칙이라고 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "국선변호인의 선임 기준은?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인이 경제적으로 어렵거나 중대한 범죄인 경우 법원이 국선변호인을 선임합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "형사소송에서 증거개시 제도란?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "검사가 확보한 증거를 피고인 또는 변호인에게 사전에 공개하는 절차입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "형사소송에서 증거개시 제도란? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "검사가 확보한 증거를 피고인 또는 변호인에게 사전에 공개하는 절차입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "무죄추정의 원칙이란? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인은 유죄 판결이 확정되기 전까지는 무죄로 추정되며, 이를 무죄추정의 원칙이라고 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "공판중심주의란?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "재판은 공판 절차에서 제출된 증거와 진술만을 토대로 판단해야 한다는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자백의 보강법칙이란? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "피고인의 자백만으로는 유죄 판결을 내릴 수 없고, 반드시 보강증거가 있어야 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "공판중심주의란? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "재판은 공판 절차에서 제출된 증거와 진술만을 토대로 판단해야 한다는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "구속영장 실질심사는 무엇인가요?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "피의자 구속 전, 판사가 직접 구속 필요성을 심사하는 절차입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "구속영장 실질심사는 무엇인가요? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "피의자 구속 전, 판사가 직접 구속 필요성을 심사하는 절차입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자백의 보강법칙이란?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인의 자백만으로는 유죄 판결을 내릴 수 없고, 반드시 보강증거가 있어야 합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "고소와 고발의 차이는? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "고소는 피해자 또는 법정대리인이, 고발은 제3자가 범죄 사실을 수사기관에 알리는 것을 말합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "국선변호인의 선임 기준은?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "피고인이 경제적으로 어렵거나 중대한 범죄인 경우 법원이 국선변호인을 선임합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자유심증주의란 무엇인가요?에 대해 자세히 알고 싶어요."
+      },
+      {
+        "from": "assistant",
+        "value": "법관이 자신의 양심과 논리에 따라 증거를 평가하는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "고소와 고발의 차이는? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "고소는 피해자 또는 법정대리인이, 고발은 제3자가 범죄 사실을 수사기관에 알리는 것을 말합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "구속영장 실질심사는 무엇인가요? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "피의자 구속 전, 판사가 직접 구속 필요성을 심사하는 절차입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "고소와 고발의 차이는? 무엇인가요?"
+      },
+      {
+        "from": "assistant",
+        "value": "고소는 피해자 또는 법정대리인이, 고발은 제3자가 범죄 사실을 수사기관에 알리는 것을 말합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "형사소송에서 증거개시 제도란?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "검사가 확보한 증거를 피고인 또는 변호인에게 사전에 공개하는 절차입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "공판중심주의란? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "재판은 공판 절차에서 제출된 증거와 진술만을 토대로 판단해야 한다는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "압수수색의 요건은? 설명해주세요."
+      },
+      {
+        "from": "assistant",
+        "value": "압수수색은 법원의 영장을 받아야 하며, 긴급한 경우 일부 예외가 인정됩니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "공판중심주의란? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "재판은 공판 절차에서 제출된 증거와 진술만을 토대로 판단해야 한다는 원칙입니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "항소심과 상고심의 차이는?의 의미가 궁금합니다."
+      },
+      {
+        "from": "assistant",
+        "value": "항소심은 1심 판결에 대한 사실·법률심이고, 상고심은 법률심에 해당합니다."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "자백의 보강법칙이란? 어떻게 적용되나요?"
+      },
+      {
+        "from": "assistant",
+        "value": "피고인의 자백만으로는 유죄 판결을 내릴 수 없고, 반드시 보강증거가 있어야 합니다."
+      }
+    ]
+  }
+]
